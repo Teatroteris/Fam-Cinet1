@@ -26,7 +26,7 @@ img{
   width: 100%;
   height: 100vh;
   position: relative;
-  background: url("bg.jpg") no-repeat center center/cover;
+  background: url("https://i.ibb.co/r6NtHXm/bg.jpg") no-repeat center center/cover;
 }
 .showcase::after{
   content: '';
